@@ -220,7 +220,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "helprealm"
+    "helprealm",
+    "plugins"
     },
     sudo_users = {132921618},--Sudo users
     disabled_channels = {},
